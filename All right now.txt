@@ -9,7 +9,7 @@ Mascotas que tuve hasta ahora :
 7-  Coquito
 8-  Popi II
 9-  Negrita
-10-  Popi
-11-  Tobby
-12-  Michi
-13-  Negrito
+10- Popi
+11- Tobby
+12- Michi
+13- Negrito
